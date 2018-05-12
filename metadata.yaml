@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5279
     wikipedia: http://en.wikipedia.org/wiki/Henry_Newbolt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24405#Poems--New-and-Old
 gutenberg_issued: '2008-01-22'
 gutenberg_type: Text
 identifiers:
